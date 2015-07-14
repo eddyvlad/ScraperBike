@@ -1,3 +1,5 @@
+> Disclaimer: This project is provided for educational purposes only. Provided under the MIT liscence, software is given freely AS IS. I make no warranties and take no responsibility for what you do with it. I make it known that this is a grey area as to the corporate privacy policy which states you may not store sensitive information on 3rd party servers, and I’m not providing support or ongoing maintenance.
+
 #Scraperbike
 
 Enterprise OWA be **hella retarded**, this shit here will gost-ride the motherf*cking cloud, go 18 dummy in your busted-a$$ ride! For real.
